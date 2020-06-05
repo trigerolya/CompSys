@@ -1,0 +1,13 @@
+﻿How is this list generated?
+This list is generated from 128 "best of" book lists from a variety
+ of great sources. An algorithm is used to create a master list
+ based on how many lists a particular book appears on. Some lists count more than others.
+ I generally trust "best of all time" lists voted by authors and experts over user-generated lists.
+ On the lists that are actually ranked, the book that is 1st counts a lot more than the book that's 100th.
+
+If you have any comments, suggestions, or corrections please feel free to e-mail me.
+
+The Lists
+If you're interested in the details about how the
+rankings are generated and which lists are the most important(in my eyes)
+ please check out the list details page.
